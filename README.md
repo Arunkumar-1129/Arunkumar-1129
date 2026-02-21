@@ -1,3 +1,17 @@
+<div align="center">
+  <pre>
+<font color="#58A6FF">
+'                              
+'                              
+'    ▄████▄ ▄▄▄▄  ▄▄ ▄▄ ▄▄  ▄▄ 
+'    ██▄▄██ ██▄█▄ ██ ██ ███▄██ 
+'    ██  ██ ██ ██ ▀███▀ ██ ▀██ 
+'                                                                                                                
+</font>
+  </pre>
+</div>
+
+
 <h1 align="center">Hi 👋, I'm Arun Kumar P</h1>
 <h3 align="center">A passionate full stack developer from India.</h3>
 
