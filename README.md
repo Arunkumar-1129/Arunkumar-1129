@@ -39,5 +39,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunkumar-1129&show_icons=true&locale=en&layout=compact" alt="arunkumar-1129" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arunkumar-1129&show_icons=true&locale=en" alt="arunkumar-1129" /></p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArunKumar-1129&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunkumar-1129&" alt="arunkumar-1129" /></p>
