@@ -11,7 +11,9 @@
   </pre>
 </div>
 
-
+<p align="center">
+  <img src="assets/e_c_mp_-ezgif.com-video-to-gif-converter (1).gif" width="100%" />
+</p>
 
 
 <p align="center">
