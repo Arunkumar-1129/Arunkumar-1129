@@ -31,6 +31,8 @@
   </a>
 </p>
 
+
+
 <br>
 <br>
 <img align="right" alt="Coding" width="380" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPos wlzjSVMM-SxOp7CV59BZw-zPPgdn4jUWVcJEY1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBblqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"/>
@@ -61,12 +63,14 @@ const arunKumar = {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Arunkumar-1129&theme=radical" />
 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arunkumar-1129&theme=radical" />
+</p>
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=arunkumar-1129&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunkumar-1129&layout=compact&theme=radical&hide_border=true" height="165"/>
 
 </div>
 
@@ -77,6 +81,7 @@ const arunKumar = {
 </div>
 
 ---
+
 
 ## 🌐 Connect With Me
 
