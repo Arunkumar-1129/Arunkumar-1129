@@ -30,55 +30,34 @@
     />
   </a>
 </p>
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7971e,100:f64f59&height=200&section=header&text=Hey%20There!%20I'm%20Arun%20Kumar%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Builder%20%7C%20Learner&descAlignY=58&descColor=ffe0b2" width="100%"/>
-
-</div>
-
----
-
+<br>
+<br>
 <img align="right" alt="Coding" width="380" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPos wlzjSVMM-SxOp7CV59BZw-zPPgdn4jUWVcJEY1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBblqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"/>
+
 
 ## 🚀 About Me
 
 ```javascript
 const arunKumar = {
+
   name     : "Arun Kumar P",
-  location : "India 🇮🇳",
+
+  location : "Coimbatore,India",
+
   role     : "Full Stack Developer",
-  learning : ["Full Stack Technologies", "System Design"],
+
+  learning : ["Full Stack Technologies", "DevOps","Operating System"],
+
   email    : "arunkumarakx1129@gmail.com",
+
   funFact  : "I turn ☕ into code every single day!"
+
 };
 ```
 
 <br clear="right"/>
 
----
-
-## 🛠️ Tech Stack
-
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -114,98 +93,10 @@ const arunKumar = {
 
 ---
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=arunkumar-1129&label=Profile%20Views&color=f64f59&style=for-the-badge)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f64f59,100:f7971e&height=120&section=footer" width="100%"/>
-
-</div>
-
-<!-- <table>
-<tr>
-<td width="55%" valign="center">
-
-<h1>Hi 👋, I'm Arun Kumar P</h1>
-
-<h3>A passionate full stack developer from India.</h3>
-
-<p>
-🌱 I’m currently learning <b>full stack technologies</b>
-</p>
-
-<p>
-📫 How to reach me: <b>arunkumarakx1129@gmail.com</b>
-</p>
-
-<p>
-📄 <a href="https://drive.google.com/file/d/17HbSRYRSWxIvFSFw1PFk8rVrl9gLOnMU/view?usp=sharing">
-Arun Kumar's Resume
-</a>
-</p>
-
-<p>
-<img src="https://komarev.com/ghpvc/?username=arunkumar-1129&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
-</td>
-
-<td width="45%" align="right">
-
-<img src="https://camo.githubusercontent.com/9598e31248e0d0f2f0067ae8cf24c68d2226621cdc3ee5303f930e4a3ea66ab4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"
-width="420"/>
-
-</td>
-</tr>
-</table> -->
 
 
 
-<img align="right" alt="Coding" width="400" 
-src="https://camo.githubusercontent.com/9598e31248e0d0f2f0067ae8cf24c68d2226621cdc3ee5303f930e4a3ea66ab4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
-<h1>Hi 👋, I'm Arun Kumar P</h1>
-
-<h3>A passionate full stack developer from India.</h3>
-
-- 🌱 I’m currently learning **full stack technologies**
-
-- 📫 Email: **arunkumarakx1129@gmail.com**
-
-- 📄 [Arun Kumar's Resume](https://drive.google.com/file/d/17HbSRYRSWxIvFSFw1PFk8rVrl9gLOnMU/view?usp=sharing)
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=arunkumar-1129&label=Profile%20views&color=0e75b6&style=flat"/>
-</p>
-
-
-<!-- <p align="center">
-  <img src="https://camo.githubusercontent.com/9598e31248e0d0f2f0067ae8cf24c68d2226621cdc3ee5303f930e4a3ea66ab4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" 
-       alt="Coding GIF" 
-       width="500"/>
-</p> -->
-
-<!-- <h1 align="center">Hi 👋, I'm Arun Kumar P</h1>
-<h3 align="center">A passionate full stack developer from India.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arunkumar-1129&label=Profile%20views&color=0e75b6&style=flat" alt="arunkumar-1129" /> </p>
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arunkumar-1129" alt="arunkumar-1129" /></a> </p> -->
-
-<!--- 🌱 I’m currently learning **full stack technologies**
-
-- 📫 How to reach me: **arunkumarakx1129@gmail.com**
-
-- 📄 Know about my experiences: [Arun Kumar's Resume](https://drive.google.com/file/d/17HbSRYRSWxIvFSFw1PFk8rVrl9gLOnMU/view?usp=sharing) -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/arun kumar p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arun kumar p" height="30" width="40" /></a>
-<a href="https://instagram.com/arnx.29_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arnx.29_" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/arun_kumar_ece" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="arun_kumar_ece" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/arun_kumar_p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arun_kumar_p" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/arun_kumarp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arun_kumarp" height="30" width="40" /></a>
-</p>
 
 <p align="center">
   <img width="100%" src="https://raw.githubusercontent.com/Arunkumar-1129/Arunkumar-1129/output/github-snake-dark.svg" alt="snake gif" />
@@ -346,6 +237,11 @@ src="https://camo.githubusercontent.com/9598e31248e0d0f2f0067ae8cf24c68d2226621c
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArunKumar-1129&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunkumar-1129&" alt="arunkumar-1129" /></p>
 
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f64f59,100:f7971e&height=120&section=footer" width="100%"/>
+
+</div>
 
