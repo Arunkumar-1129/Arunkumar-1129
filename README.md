@@ -23,11 +23,7 @@
 </p>
 
 
-<!-- <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com/?lines=Arun%20Kumar%20P;Passionate%20Full%20Stack%20Developer;Pre%20Final%20Year%20Student&font=Fira%20Code&center=true&width=700&height=45&color=00BFFF&vCenter=true&pause=1000&size=22" 
-  />
-</p> -->
+
 
 
 
