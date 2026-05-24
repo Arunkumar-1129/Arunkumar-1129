@@ -33,35 +33,32 @@
 
 
 
-<br>
-<br>
-<img align="right" alt="Coding" width="380" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPos wlzjSVMM-SxOp7CV59BZw-zPPgdn4jUWVcJEY1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBblqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"/>
-
-
 ## 🚀 About Me
+
+<img align="right" alt="Coding" width="42%" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUWVcJEY1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBblqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"/>
 
 ```javascript
 const arunKumar = {
 
   name     : "Arun Kumar P",
 
-  location : "Coimbatore,India",
+  location : "Coimbatore, India",
 
   role     : "Full Stack Developer",
 
-  learning : ["Full Stack Technologies", "DevOps","Operating System"],
+  learning : ["Full Stack Technologies", "DevOps", "Operating Systems"],
 
   email    : "arunkumarakx1129@gmail.com",
 
-  funFact  : "I turn ☕ into code every single day!"
+  funFact  : "I turn ☕ into code every day!"
 
 };
 ```
 
-<br clear="right"/>
-
+<br clear="both"/>
 
 ---
+
 
 ## 📊 GitHub Statistics
 <p align="center">
