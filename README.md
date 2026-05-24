@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com/?lines=Passionate%20Full%20Stack%20Developer;Pre%20Final%20Year%20Student&font=Fira%20Code&center=true&width=600&height=45&color=00BFFF&vCenter=true&pause=1000&size=22" 
+      src="https://readme-typing-svg.demolab.com/?lines=Passionate%20Full%20Stack%20Developer;Pre%20Final%20Year%20Student&font=Fira%20Code&weight=700&center=true&width=600&height=45&color=00BFFF&vCenter=true&pause=1000&size=22" 
       alt="Typing SVG" 
     />
   </a>
