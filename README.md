@@ -19,7 +19,7 @@
   </a>
 </p>
 <p align="center">
-  <img src="assets/e_c_mp_-ezgif.com-video-to-gif-converter (1).gif" width="70%" />
+  <img src="assets/FireflywordThevideoisaseamless6-8secondanimatedlooppreservingtheoriginalcompositionan-ezgif.com-video-to-gif-converter.gif" width="70%" />
 </p>
 
 
